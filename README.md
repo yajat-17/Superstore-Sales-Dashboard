@@ -57,7 +57,7 @@ This project analyzes Superstore sales data from 2014 to 2017 using Microsoft Po
 - `Superstore_Sales_Dashboard.pbix` — Interactive Power BI dashboard.
 - `README.md` — Project documentation.
 - `screenshots/` — Dashboard screenshots.
-- `Project-Report.pdf` — Detailed project report (optional).
+- `Project-Report.pdf` — Detailed project report.
 
 ## How to Use
 1. Download or clone this repository.
@@ -69,7 +69,7 @@ This project analyzes Superstore sales data from 2014 to 2017 using Microsoft Po
 This project demonstrates how business data can be transformed into actionable insights using Power BI. It highlights sales trends, profitability differences, regional performance, product-level opportunities, and discount-related risks to support better business decisions.
 
 ## Author
-**Your Name**  
+Yajat Eppakayala 
 T.Y. B.Sc. Data Science  
 SIES College of Arts, Science and Commerce, Sion West, Mumbai
 
